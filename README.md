@@ -2,6 +2,7 @@
 My 41189 Reflective Portfolio. A weekly visit from a HCCS student describing their thought processes
 
 <!-- Template for the  week
+---
 ## Week []
 ### What have I learnt this week?
 ### What do I 'now know' that I did not before?
@@ -14,6 +15,7 @@ My 41189 Reflective Portfolio. A weekly visit from a HCCS student describing the
 
 
 
+---
 
 ## Week 2
 
