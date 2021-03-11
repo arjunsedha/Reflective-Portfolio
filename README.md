@@ -34,3 +34,20 @@ For the next week I would like to continue all preceding reading readings assign
 
 ### What theory proved to be useful and why? What have I learnt from this?
 As of now, all theory has been very broad, yet the ideas of system change and innovation have envoked a profound perspective on the course that humanity has taken upon the world. With problems ranging from slow transport to world economy imbalance, each aspect of our reality can be viewed through the lens of a systems thinker. Hence the idea that systems can be remodelled, I like to believe, may bring forth an innovation in the human psyche like no other. 
+
+---
+## Week 3
+### What have I learnt this week?
+The large volume of models and perspectives on Many Model thinking. The importance of understanding the the contents of a model to the core and how to apply the model to different situaitions within industries. Th market value of model thinking. However more specifically we thought on the personal aspect of model thinking, narrowing down the scope of models to the individual to better understand and thus be able to concoct more potent models that better understand situations and people. 
+### What do I 'now know' that I did not before?
+The differnt 'categories' of thought processes that are applied to all mindsets whrn making decisions of any kind. What exactly are the boundaries between our Rationale, Behaviour, Assumptions, Habits etc. 
+### What insights have I gained?
+The examples of how these differring mindsets play a role on the market, thus making providing different projections of what may be to come when predicting certain outcomes from given instances.
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+I believe I am able to comprehend, visualise and deconstruct the information to form my own analysis. However, the sometimes explaining the same content to others may prove challenging as I belive not enough time has been spent trying to thoroughly understand these topics in depth. Instead enough to make them feel understood, and analytically satisfying
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+The amount of redaing required to understand these concepts was quite legnthy, including all of the other readings present in my schedule that ended up hurting my eyes. Hence I decided to download a webpage reader so i can focus on making my own notes while listening to the reader cover the entire page in minutes.
+### What would I do better next time and with what anticipated results?
+Perhaps ask more questions regarding the examples in workshops so I remember what response I get to then jog my memory on the concept itself. 
+### What theory proved to be useful and why? What have I learnt from this?
+All theories have been proved useful as they are personal. thus each can be applied to individuals in any scenario. 
