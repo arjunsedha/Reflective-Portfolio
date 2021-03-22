@@ -37,6 +37,7 @@ As of now, all theory has been very broad, yet the ideas of system change and in
 
 ---
 ## Week 3
+
 ### What have I learnt this week?
 The large volume of models and perspectives on Many Model thinking. The importance of understanding the the contents of a model to the core and how to apply the model to different situaitions within industries. Th market value of model thinking. However more specifically we thought on the personal aspect of model thinking, narrowing down the scope of models to the individual to better understand and thus be able to concoct more potent models that better understand situations and people. 
 ### What do I 'now know' that I did not before?
@@ -51,3 +52,23 @@ The amount of redaing required to understand these concepts was quite legnthy, i
 Perhaps ask more questions regarding the examples in workshops so I remember what response I get to then jog my memory on the concept itself. 
 ### What theory proved to be useful and why? What have I learnt from this?
 All theories have been proved useful as they are personal. thus each can be applied to individuals in any scenario. 
+
+---
+## Week 4
+
+### What have I learnt this week?
+How elements within a system interact with each other, affecting the output of the system.
+### What do I 'now know' that I did not before?
+how to visually analyse system data, and how to visualise this data to create graphs that allocate significance to different aspects of a system
+### What insights have I gained?
+that I need to know how to model and how to understand models, otherwise communicating systemic thinking will be difficult
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+streghts, understanding a model, weakness, making a model
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+well we had strong communication within the team but trying to share diagrams was a bit of a hassle since i was drawing digitally(which shoud help) but on another device. if only i could join the meeting with both devices. 
+### What would I do better next time and with what anticipated results?
+ask more questions on the how exactly the models function to understand them
+### What theory proved to be useful and why? What have I learnt from this?
+the theory of modelling has enabeled a much broader thinking spectrum where the scale of thought is dynamic with the system's purpose. I have nt designed any systems, but i am begining to see the different systems around me. 
+
+
