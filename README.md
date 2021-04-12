@@ -71,4 +71,36 @@ ask more questions on the how exactly the models function to understand them
 ### What theory proved to be useful and why? What have I learnt from this?
 the theory of modelling has enabeled a much broader thinking spectrum where the scale of thought is dynamic with the system's purpose. I have nt designed any systems, but i am begining to see the different systems around me. 
 
+## Week 5
+### What have I learnt this week?
+The relation between probability distribution analysis an system thinking
+### What do I 'now know' that I did not before?
+how specific types of probability distribution graphs describe a multitude of scenarios. 
+### What insights have I gained?
+how the process of statistical analysis is one that provides a quantitative tool for system thinking.  
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+I have stutied this aspect of statistic previously thus understanding probability distributions was not too dificult. However, recalling specific examples will prove to be a challenge as there is a lot of information in this wee's study. 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+some challenges encoutered are actually related to the assignment instead of this week's lesson. It is translation of this information into knowledge that can be used for my own purposes that I am yet to fully accompliish. Yet there is improvement as trying to build my own examples for each phenomena proves an efficient way to achieve this goal.
+### What would I do better next time and with what anticipated results?
+perhaps review each lesson's canvas pages 3 times a week. Hence not to forget the information and aid in building knowledge. 
+### What theory proved to be useful and why? What have I learnt from this?
+All the different interactions the concept of the normal distribution has between the different fields of thought.
+
+## Week 6
+### What have I learnt this week?
+The power of abstraction in relation to concetual modelling
+### What do I 'now know' that I did not before?
+How unintuitive systems thinking is by nature. Since we are the fish in the bowl, it becomes difficult to conceptualise our enviornment. 
+### What insights have I gained?
+For starters Im reconsidering switching to the DVORAK or colemak keyboard layout. Other than that, the main take away's from this week's lessons is existent integration of the progression in chance and our underlying norms as an effect of underappreciated factors of consideration. 
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+being clear haha. I speak often too specific or vague and without good examples that it becomes hard to understand what im saying. 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+trying to communcate abstract ideas. It's always a challenge, however amplified under a time limit
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+
 
