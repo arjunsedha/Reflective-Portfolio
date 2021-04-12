@@ -99,8 +99,9 @@ being clear haha. I speak often too specific or vague and without good examples 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 trying to communcate abstract ideas. It's always a challenge, however amplified under a time limit
 ### What would I do better next time and with what anticipated results?
-
+derive some of the formulae to then better understand their applications. and maybe talk slower to be more clear. 
 ### What theory proved to be useful and why? What have I learnt from this?
+overall, its the application of mathimatical thinking to system thinking. but specifically the cobb douglas growth model, it as it's fairly understandable and applicable to almost all industries. 
 
 
 
