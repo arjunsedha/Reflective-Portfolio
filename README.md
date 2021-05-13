@@ -71,6 +71,7 @@ ask more questions on the how exactly the models function to understand them
 ### What theory proved to be useful and why? What have I learnt from this?
 the theory of modelling has enabeled a much broader thinking spectrum where the scale of thought is dynamic with the system's purpose. I have nt designed any systems, but i am begining to see the different systems around me. 
 
+---
 ## Week 5
 ### What have I learnt this week?
 The relation between probability distribution analysis an system thinking
@@ -87,6 +88,7 @@ perhaps review each lesson's canvas pages 3 times a week. Hence not to forget th
 ### What theory proved to be useful and why? What have I learnt from this?
 All the different interactions the concept of the normal distribution has between the different fields of thought.
 
+---
 ## Week 6
 ### What have I learnt this week?
 The power of abstraction in relation to concetual modelling
@@ -103,5 +105,23 @@ derive some of the formulae to then better understand their applications. and ma
 ### What theory proved to be useful and why? What have I learnt from this?
 overall, its the application of mathimatical thinking to system thinking. but specifically the cobb douglas growth model, it as it's fairly understandable and applicable to almost all industries. 
 
+---
+## Week 7
+### What have I learnt this week?
+### What do I 'now know' that I did not before?
+### What insights have I gained?
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+### What would I do better next time and with what anticipated results?
+### What theory proved to be useful and why? What have I learnt from this?
 
+---
+## Week 8
+### What have I learnt this week?
+### What do I 'now know' that I did not before?
+### What insights have I gained?
+### What are (my/the) percieved stregnths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+### What would I do better next time and with what anticipated results?
+### What theory proved to be useful and why? What have I learnt from this?
 
