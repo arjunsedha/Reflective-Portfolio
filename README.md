@@ -108,12 +108,19 @@ overall, its the application of mathimatical thinking to system thinking. but sp
 ---
 ## Week 7
 ### What have I learnt this week?
+Thought processes that are not intuitive provide access to model thinking. This is based on the grounds that to build a model, parameters must be set. To build these parameters one must be able to extend themselves into the problem and think bottom up, unerstanding the issue on many levels. This proccess can be applied to concepts even as abstract as Social Cognition. Hence the existance of Granovetter's Riot Model, Schelling’s Segregation Model, Standing Ovation Model and possibly more.
 ### What do I 'now know' that I did not before?
+There are major differences between analysis, comprehension, retention and articulation. And yet, they all fall under the bracket term of learning. Many such instances exist in the world and thus, there is far more miscommunication and false understanding between humans. This leads to various social phenomena. For example, the Standing ovation at first glance may seem simple, yet breaking down into the conceptual components that build it up provides an analysis of the phenomena that strips away at the notion that we understand even the smallest of that which we do on a daily basis.
 ### What insights have I gained?
+Being under societal preassure is commonplace. Hence it important to always question each decision you make, "who benefits from this action and why". 
 ### What are (my/the) percieved stregnths and weaknesses that I have observed?
+Critical thinking I would perciieve as a stregnth. However, my memory is weak when in need of recalling past model's names and such, though thier construction is clear.
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Having cohesion as a team is difficult due to the screen barrier. Thus, playing to stregnths becomes challenging and learning is restricted to the indvidual's assigned task instead of working and learning from each other.
 ### What would I do better next time and with what anticipated results?
+Get better at undertanding each group member's stregnths and weaknesses to ensure that work flows smoothly in a team enviornment.
 ### What theory proved to be useful and why? What have I learnt from this?
+The examples given for Social Contagion models have allowed me to question my beliefs which I find useful for self growth.
 
 ---
 ## Week 8
