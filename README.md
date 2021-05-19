@@ -125,10 +125,18 @@ The examples given for Social Contagion models have allowed me to question my be
 ---
 ## Week 8
 ### What have I learnt this week?
+the prisoner dilemma
 ### What do I 'now know' that I did not before?
+How models construct abstraction. such as the colonel blotto strategy
 ### What insights have I gained?
+blotto with competition. the various outcomes of understanding inherent things such as dimensionality and skill and luck. these unnoticed variables deserve credit.
 ### What are (my/the) percieved stregnths and weaknesses that I have observed?
+practical application of model analysis
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+honestly no challenges with the team. More just a lack of some technical ability for the assignment that majorly increased the workload on singular members.
 ### What would I do better next time and with what anticipated results?
+lower my own expectaions perhaps.
 ### What theory proved to be useful and why? What have I learnt from this?
+the tit for tat strategy. I believe if most people were to adopt a tit for tat mindset then accompanied with an increased level of communication it can prove to be handy.
+
 
